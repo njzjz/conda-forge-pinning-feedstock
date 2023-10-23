@@ -481,6 +481,8 @@ libidn2:
   - 2
 libintervalxt:
   - 3
+libjpeg-turbo:
+  - 3
 libkml:
   - 1.3
 libiio:
